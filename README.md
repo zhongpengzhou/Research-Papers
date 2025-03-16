@@ -22,7 +22,3 @@ If you use any of these papers, please cite them using their DOI (if available).
 ## License
 
 This repository is licensed under the [CC BY 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-
----
-
-For the latest updates and version information, refer to the [GitHub repository](https://github.com/zhongpengzhou/Research-Papers).
