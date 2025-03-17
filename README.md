@@ -6,8 +6,8 @@ This repository contains my research papers, slides, and other related materials
 
 | Title | DOI | Last Updated | Link to Code |
 |-------------|-----|--------------|--------------|
-| The inter-universal Teichmüller theory and new Diophantine results over the rational numbers. I (preprint) | [10.5281/zenodo.14989119](https://doi.org/10.5281/zenodo.14989119) | March 17, 2025 | [GitHub Repository](https://github.com/zhongpengzhou/IUT-Q-I-code) |
-| The inter-universal Teichmüller theory and new Diophantine results over the rational numbers. II (preprint) | [10.5281/zenodo.14989980](https://doi.org/10.5281/zenodo.14989980) | March 17, 2025 | [GitHub Repository](https://github.com/zhongpengzhou/IUT-Q-II-code) |
+| The inter-universal Teichmüller theory and new Diophantine results over the rational numbers. I (preprint) | [10.5281/zenodo.14989119](https://doi.org/10.5281/zenodo.14989119) | March 16, 2025 | [GitHub Repository](https://github.com/zhongpengzhou/IUT-Q-I-code) |
+| The inter-universal Teichmüller theory and new Diophantine results over the rational numbers. II (preprint) | [10.5281/zenodo.14989980](https://doi.org/10.5281/zenodo.14989980) | March 16, 2025 | [GitHub Repository](https://github.com/zhongpengzhou/IUT-Q-II-code) |
 
 ## Slides
 
