@@ -11,10 +11,10 @@ This repository contains my research papers, slides, and other related materials
 
 ## Slides
 
-| Title | Date | Conference Details |
-|-------|------|--------------------|
-<!-- | Applications of Inter-universal Teichmüller Theory to Diophantine Geometry and Equations over the Rational Numbers | March 20, 2025 | Workshop - Inter-universal Teichmüller Theory Summit 2025, Kyoto, Japan | -->
+| Title | Conference Details | Date |
+|-------|--------------------|------|
+| [Applications of Inter-universal Teichmüller Theory to Diophantine Geometry and Equations over the Rational Numbers](./slides/Applications%20of%20IUT%20over%20Q%20(IUT%20Summit%202025).pdf) | Workshop - IUT Summit 2025, Kyoto, Japan | March 20, 2025 |
 
 ## License
 
-This repository is licensed under the [CC BY 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+This repository is licensed under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
